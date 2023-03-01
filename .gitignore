@@ -12,3 +12,15 @@ __pycache__
 
 # Ignore .idea
 .idea
+
+# Ignore lib
+lib
+
+# Ignore bin
+bin
+
+# Ignore any auto-generated files
+*.pyc
+
+# Ignore include
+include
