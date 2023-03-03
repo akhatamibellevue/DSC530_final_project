@@ -14,13 +14,15 @@ __pycache__
 .idea
 
 # Ignore lib
-lib
 
-# Ignore bin
+# Ignore unnessary files
 bin
+include
+share
+lib
+etc
+
 
 # Ignore any auto-generated files
 *.pyc
 
-# Ignore include
-include
